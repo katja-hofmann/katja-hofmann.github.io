@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 title: Blogging with Jekyll
 tags: [test, more testing]
 ---
