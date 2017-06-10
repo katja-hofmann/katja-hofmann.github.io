@@ -1,4 +1,10 @@
 theme: jekyll-theme-minimal
+
+# site settings
+title: Katja Hofmann
+author: Katja Hofmann
+description: Researcher at Microsoft Research Cambridge, UK
+
 defaults:
  - scope:
      path: "assets/img"
