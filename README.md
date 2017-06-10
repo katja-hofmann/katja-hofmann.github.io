@@ -1,13 +1,1 @@
----
-title: Hello, World!
----
-
-<ul>
-  {% for post in site.posts %}
-<li>
-  <a href="{{ post.url }}">{{ post.title }}</a>
-    {{ post.excerpt }}
-  </li>
-  {% endfor %}
-</ul>
-
+Katja's blog, generated with Jekyll and github.io.
