@@ -4,12 +4,11 @@ title: RUSSIR 2014: Lectures on Online Experimentation for Information Retrieval
 comments: true
 date: 2014-12-17 19:29:23.000000000 +00:00
 type: post
+author: Katja Hofmann
 published: true
 status: publish
 categories: []
 tags: [information retrieval]
-author:
-  display_name: Katja Hofmann
 ---
 
 This summer, I was invited to teach at <a href="http://romip.ru/russir2014/">RuSSIR</a> - the Russian Summer School in Information Retrieval in Nizhny Novgorod. I very much enjoyed the enthusiasm and insightful questions of the students. Thanks again to all who attended my lectures, and to the organizers!
