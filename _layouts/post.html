@@ -12,11 +12,10 @@
         <section>
 	
 	    <h1>{{ post.title }}</h1>
-	    <div>{{ post.date }} by {{ post.author }}</div>
-
 
             {{ content }}
 
+	    <p>Posted on {{ page.date }} in {{ page.tags}}</div>
 	    <p>Back to <a href="{{ site.url }}">all posts</a></p>
 
         </section>
