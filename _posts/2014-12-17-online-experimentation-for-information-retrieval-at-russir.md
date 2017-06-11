@@ -1,6 +1,6 @@
 ---
 layout: post
-title: RUSSIR 2014: Lectures on Online Experimentation for Information Retrieval
+title: Lectures on Online Experimentation for Information Retrieval at RUSSIR 2014
 comments: true
 date: 2014-12-17 19:29:23.000000000 +00:00
 type: post
