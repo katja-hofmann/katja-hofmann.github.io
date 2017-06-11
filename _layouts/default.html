@@ -1,23 +1,23 @@
-+ADwAIQ-doctype html+AD4-
-+ADw-html lang+AD0AIgB7AHs- site.lang +AHw- default: +ACI-en-US+ACI- +AH0AfQAiAD4-
+<!doctype html>
+<html lang="{{ site.lang | default: "en-US" }}">
 
-+AHsAJQ- include head.html +ACUAfQ-
+{% include head.html %}
 
-+ADw-body+AD4-
-    +ADw-div class+AD0AIg-wrapper+ACIAPg-
+<body>
+    <div class="wrapper">
 
-        +AHsAJQ- include header.html +ACUAfQ-
+        {% include header.html %}
 
-        +ADw-section+AD4-
+        <section>
 
-            +AHsAew- content +AH0AfQ-
+            {{ content }}
 
-        +ADw-/section+AD4-
+        </section>
 
-        +AHsAJQ- include footer.html +ACUAfQ-
+        {% include footer.html %}
 
-    +ADw-/div+AD4-
-    +ADw-script src+AD0AIgB7AHs- '/assets/js/scale.fix.js' +AHw- relative+AF8-url +AH0AfQAiAD4APA-/script+AD4-
+    </div>
+    <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
 
-+ADw-/body+AD4-
-+ADw-/html+AD4-
+</body>
+</html>
