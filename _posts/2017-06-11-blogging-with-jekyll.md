@@ -1,8 +1,11 @@
----
 layout: post
 title: Blogging with Jekyll
+date: Sunday, 11 June 2017
+excerpt: I recently realized that my WordPress website / blog had gone stale. The last entry dated more than two years ago. Adding content to that site had always had a high overhead. Looking for alternatives, it turns out the web has moved on to more light-weight solutions. Jekyll in particular looks like it could be fun.
 tags: [test, more testing]
 ---
+
+# Blogging with Jekyll
 
 I recently realized that my WordPress website / blog had gone stale. The last entry dated more than two years ago. Adding content to that site had always had a high overhead. Looking for alternatives, it turns out the web has moved on to more light-weight solutions. [Jekyll](https://jekyllrb.com/) in particular looks like it could be fun.
 
