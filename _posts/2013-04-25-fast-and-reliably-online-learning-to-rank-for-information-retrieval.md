@@ -19,7 +19,7 @@ tags:
 
 My PhD thesis is out! Download a copy from this page, or get in touch if you would like a printed copy. The public defense will be on May 28. at the Agnietenkapel in Amsterdam.
 
-[caption id="attachment_122" align="alignright" width="212"]<a href="http://khofm.files.wordpress.com/2013/04/thesis-katja-hofmann-online-learning.pdf"><img class="size-medium wp-image-122" style="border:1px solid #DDDDDD;" alt="Thesis Cover: Fast and Reliable Online Learning to Rank for Information Retrieval" src="{{ site.baseurl }}/assets/thesis-cover-katja-hofmann.png?w=212" width="212" height="300" /></a> Fast and Reliable Online Learning to Rank for Information Retrieval. <a href="http://khofm.files.wordpress.com/2013/04/thesis-katja-hofmann-online-learning.pdf">Download a copy</a> (PDF, 2.9 MB).[/caption]
+[caption id="attachment_122" align="alignright" width="212"]<a href="http://khofm.files.wordpress.com/2013/04/thesis-katja-hofmann-online-learning.pdf"><img class="size-medium wp-image-122" style="border:1px solid #DDDDDD;" alt="Thesis Cover: Fast and Reliable Online Learning to Rank for Information Retrieval" src="{{ site.baseurl }}/assets/thesis-cover-katja-hofmann.png" width="212" height="300" /></a> Fast and Reliable Online Learning to Rank for Information Retrieval. <a href="http://khofm.files.wordpress.com/2013/04/thesis-katja-hofmann-online-learning.pdf">Download a copy</a> (PDF, 2.9 MB).[/caption]
 
 *Summary:*
 
