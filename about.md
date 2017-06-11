@@ -1,7 +1,4 @@
-﻿---
-layout: default
-title: About
----
+﻿# About
 
 I am a Researcher at the Machine Intelligence and Perception group at
 <a href="https://www.microsoft.com/en-us/research/lab/microsoft-research-cambridge/">Microsoft Research Cambridge</a>.
