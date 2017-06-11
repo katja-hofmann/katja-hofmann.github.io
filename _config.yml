@@ -5,12 +5,6 @@ title: Katja Hofmann
 author: Katja Hofmann
 description: Researcher at Microsoft Research Cambridge, UK
 
-# Comments
-comments:
-  provider: disqus
-    disqus: 
-      short_name: katja-hofmann
-
 defaults:
  - scope:
      path: "assets/img"
