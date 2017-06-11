@@ -1,37 +1,28 @@
 ---
 layout: post
 title: Practical Online Retrieval Evaluation
+comments: true
 date: 2013-03-24 21:38:39.000000000 +00:00
 type: post
+author: Katja Hofmann
 published: true
 status: publish
 categories:
-- Conference
+- conference
 tags:
-- Click Models
-- Interleaving
-- Online Evaluation
-- Tutorial
-meta:
-  _publicize_pending: '1'
-  _edit_last: '36290217'
-  geo_public: '0'
-  _oembed_9444e972faa6148f4be5b9fc8b38b44e: "{{unknown}}"
-  _oembed_0d14ac13ae22484757aa95538d41f324: "{{unknown}}"
-  _oembed_d06b773c8032200322a1bca9144d3db4: "{{unknown}}"
-  _oembed_4fd7d6acaa18da3fa4cc0655f866b722: "{{unknown}}"
-  _oembed_da87891e2a273d5aa461173c0b4692b1: "{{unknown}}"
-author:
-  login: khofm
-  email: katja.hofmann@gmail.com
-  display_name: Katja Hofmann
-  first_name: ''
-  last_name: ''
+- click models
+- interleaving
+- online evaluation
+- tutorial
+- information retrieval
 ---
-<p>Thank you to all those who attended the <a title="ECIR 2012" href="http://ecir2013.org/">ECIR 2013</a> tutorial on Practical Online Retrieval Evaluation that Filip Radlinski and I gave today. We updated some of the slides from the version that was provided on the conference USB stick. Below are the updated slides and links to additional resources.</p>
+
+Thank you to all those who attended the <a title="ECIR 2012" href="http://ecir2013.org/">ECIR 2013</a> tutorial on Practical Online Retrieval Evaluation that Filip Radlinski and I gave today. We updated some of the slides from the version that was provided on the conference USB stick. Below are the updated slides and links to additional resources.
+
 <ul>
 <li><a href="http://sdrv.ms/X19kUZ">PPT</a> slides (based on the 2011 SIGIR tutorial by Yisong Yue and Filip Radlinski, the slides of this earlier tutorial are available on <a title="Yisong's website" href="http://www.yisongyue.com/research.php#tutorials">Yisong's website</a>) [<a href="http://ilps.science.uva.nl/sites/ilps.science.uva.nl/files/2013%20ECIR%20Tutorial%20on%20Practical%20Online%20Evaluation.pdf">PDF</a> version without animations]</li>
 <li>Demo scripts: these are based on Yisong's material, available from <a title="Yisong's website" href="http://www.yisongyue.com/research.php#tutorials">his website</a></li>
 <li>Additional reference implementations of Balanced Interleave, Team Draft, and Probabilistic Interleaving in python are part of our <a href="http://ilps.science.uva.nl/resources/online-learning-framework">Learning to Rank Framework</a>, released with our WSDM 2013 paper <a href="http://ilps.science.uva.nl/biblio/reusing-historical-interaction-data-faster-online-learning-rank-ir">Reusing Historical Interaction Data For Faster Online Learning To Rank For IR</a> by Katja Hofmann, Anne Schuth, Shimon Whiteson, and Maarten de Rijke</li>
 </ul>
-<p>For additional details and further reading, please see the references cited in the slides. A detailed list of references is included at the end of the presentation.</p>
+
+For additional details and further reading, please see the references cited in the slides. A detailed list of references is included at the end of the presentation.
