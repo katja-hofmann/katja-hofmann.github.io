@@ -17,6 +17,7 @@
 	    <p>Posted on {{ page.date | date: "%-d %B %Y" }}</p>
 	    <p>Back to <a href="{{ site.url }}">all posts</a></p>
 
+{% if page.comments %}
 <div id="disqus_thread"></div>
 <script>
 
@@ -43,9 +44,11 @@ s.setAttribute('data-timestamp', +new Date());
         {% include footer.html %}
 
     </div>
+    <script id="dsq-count-scr" src="//katja-hofmann.disqus.com/count.js" async></script>
+{% endif %}
+
     <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
-    <script id="dsq-count-scr" src="//katja-hofmann.disqus.com/count.js" async></script>
 
 </body>
 </html>
