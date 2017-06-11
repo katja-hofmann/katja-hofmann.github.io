@@ -1,34 +1,20 @@
-<!doctype html>
-<html lang="{{ site.lang | default: "en-US" }}">
+---
+layout: default
+---
 
-{% include head.html %}
+<div class="post">
+<h1 class="post-title">{{ page.title }}</h1>
 
-<body>
-    <div class="wrapper">
+{{ content }}
 
-        {% include header.html %}
+<span class="post-date">{{ page.date | date: "%-d %B %Y" }}</span>
 
+<span class="back-link">Back to <a href="{{ site.url }}">all posts</a></span>
 
-        <section>
-	
+</div>
 
-            {{ content }}
-
-	    <p>Posted on {{ page.date | date: "%-d %B %Y" }}</p>
-	    <p>Back to <a href="{{ site.url }}">all posts</a></p>
-
-        {% include disqus.html %}
-
-        </section>
-
-        {% include footer.html %}
-
-    </div>
-    <script id="dsq-count-scr" src="//katja-hofmann.disqus.com/count.js" async></script>
-{% endif %}
-
-    <script src="{{ '/assets/js/scale.fix.js' | relative_url }}"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.0/MathJax.js?config=TeX-AMS-MML_HTMLorMML" type="text/javascript"></script>
+{% include disqus.html %}
+{% include discuss_counter.html %}
 
 </body>
 </html>

@@ -13,7 +13,7 @@ I recently realized that my WordPress website / blog had gone stale. The last en
 
 I'd like to be able to write equations in latex - [MathJax](https://www.mathjax.org/) provides this functionality, and it's easy to integrate with Jekyll (see [Jekyll Extras](https://jekyllrb.com/docs/extras/)). Let's see if this works: $$a^2 + b^2 = c^2$$ (this and more examples: [MathJax with Jekyll](http://gastonsanchez.com/visually-enforced/opinion/2014/02/16/Mathjax-with-jekyll/)). Brilliant - works like a charm!
 
-Commenting would be great as well. [Txtpen](https://www.txtpen.com/) looked great, but for some reason I couldn't sign up (kept getting a timeout, maybe a temporary issue?) so I went with [Disqus](https://disqus.com) instead. The setup is straightforward and well documented once you sign up. Now, feel free to leave a comment to let me know how you like this solution.
+Commenting would be great as well. [Txtpen](https://www.txtpen.com/) looked great, but for some reason I couldn't sign up (kept getting a timeout, maybe a temporary issue?) so I went with [Disqus](https://disqus.com) instead. These instructions came in handy [Adding Disqus to a Jekyll Blog](http://sgeos.github.io/jekyll/disqus/2016/02/14/adding-disqus-to-a-jekyll-blog.html). Now, feel free to leave a comment to let me know how you like this solution.
 
 Next up: importing content from my old WordPress site, and generating a list of publications.
 
