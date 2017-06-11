@@ -4,11 +4,13 @@
 @import "{{ site.theme }}";
 
 span.post-date {
-  display: block;
+  display:block;
+  margin:10px 0;
   font-style:italic;
 }
 
 span.back-link {
-  display: block;
+  display:block;
+  margin:20px 0;
 }
 
